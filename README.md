@@ -59,5 +59,5 @@ Instead, it contains:
 ---
 
 ## 👤 Author
-**Omar Zubaidi**
+**Omar Alzubaidi**
 
